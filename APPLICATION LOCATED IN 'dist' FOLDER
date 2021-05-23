@@ -1,0 +1,5 @@
+THE JAVA APPLICATIONS (GUI) ARE LOCATED IN THE "dist" folder for both server and chat app.
+
+code can be found in:
+src>my>serverUI.java
+src>my>chatapp>ChatAppUI.java
